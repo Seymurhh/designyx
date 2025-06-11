@@ -1,0 +1,12 @@
+baseURL = "https://designyx.netlify.app/"
+languageCode = "en-us"
+title = "Designyx"
+theme = "ananke"
+
+[params]
+  author = "Seymur Hasanov"
+  description = "Exploring God's creative design through science, technology, and engineering."
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
